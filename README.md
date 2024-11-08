@@ -39,7 +39,7 @@ The data comes from a relational database, consisting of tables such as:
 ## How to Use
 1. **Clone Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/SQL_Project_Music_Store_Analysis.git
+   git clone https://github.com/your-username/Music_Store_Analysis_Using-_SQL.git
    ```
 2. **Database Setup**: Import the database schema and data to your SQL environment.
 3. **Run Queries**: Open each SQL file and execute the queries to generate analysis results.
